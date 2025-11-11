@@ -1,0 +1,33 @@
+ 
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+*.env
+
+# ⚛️ Node / Frontend
+node_modules/
+build/
+dist/
+.env.local
+.env.development
+.env.production
+
+# 🗄️ Database files
+*.db
+*.sqlite3
+
+# 🧠 Environment / Secrets
+.env
+.env.*
+
+# 💻 IDE / Editor
+.vscode/
+.idea/
+
+# 🧩 OS-generated files
+.DS_Store
+Thumbs.db
