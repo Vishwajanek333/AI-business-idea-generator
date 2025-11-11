@@ -69,7 +69,7 @@ A professional **SaaS application** that generates creative business startup ide
 ## 🏗️ Project Structure
 
 
-
+```
 ai-business-idea-generator/
 ├── frontend/
 │ ├── public/
@@ -105,7 +105,7 @@ ai-business-idea-generator/
 ├── .env
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
