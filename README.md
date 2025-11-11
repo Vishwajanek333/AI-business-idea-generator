@@ -2,8 +2,6 @@
 
 A professional **SaaS application** that generates creative business startup ideas using AI — built with **React (Frontend)** and **FastAPI (Backend)**.
 
-![Architecture Diagram](./ad027f23-b04d-4dd8-8b58-d480aea4e0e7.png)
-
 ---
 
 ## 🗂️ Table of Contents
@@ -22,6 +20,8 @@ A professional **SaaS application** that generates creative business startup ide
 - [Contact](#contact)
 
 ---
+## Architecture Diagram
+
 
 ## 🚀 Features
 
