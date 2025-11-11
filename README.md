@@ -20,8 +20,16 @@ A professional **SaaS application** that generates creative business startup ide
 - [Contact](#contact)
 
 ---
-## Architecture Diagram
+## 🏗️ Architecture Diagram
 
+Below is the architecture overview of the **AI Business Idea Generator** platform.
+
+### 🖼️ Visual Diagram
+![Architecture Diagram](./ad027f23-b04d-4dd8-8b58-d480aea4e0e7.png)
+
+📎 [Click here to view or download the full diagram](./ad027f23-b04d-4dd8-8b58-d480aea4e0e7.png)
+
+---
 
 ## 🚀 Features
 
